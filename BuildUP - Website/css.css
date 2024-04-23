@@ -1,0 +1,11 @@
+#todo-input{
+    background-color: aqua;
+    color: green;
+
+    
+}
+
+#todo-input:hover{
+    background-color: blue;
+}
+
